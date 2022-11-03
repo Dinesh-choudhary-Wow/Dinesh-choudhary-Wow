@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DINESH CHOUDHARY</h1>
 <h3 align="center">A passionate, consistent coder, developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/22/22657b8a577f858827c5d46dac32cf53.gif">
-
+## Haa bhai kya haal hai? Kya zarurat padd gai idhar?
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinesh-choudhary-wow&label=Profile%20views&color=0e75b6&style=flat" alt="dinesh-choudhary-wow" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-choudhary-wow" alt="dinesh-choudhary-wow" /></a> </p>
