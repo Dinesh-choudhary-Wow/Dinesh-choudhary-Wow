@@ -8,23 +8,23 @@
 
 ## Haa bhai kya haal hai? Kya zarurat padd gai idhar?
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-choudhary-wow" alt="dinesh-choudhary-wow" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/gith9    99ub-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dinesh-choudhary-wow" alt="dinesh-choudhary-wow" /></a> </p>
 <br/>
 <p align="left"> <a href="https://twitter.com/dinesh_seervi91" target="blank"><img src="https://img.shields.io/twitter/follow/dinesh_seervi91?logo=twitter&style=for-the-badge" alt="dinesh_seervi91" /></a> </p>
 <br/>
-- 🔭 I’m currently working on **Democraysis Sagacity**
 
 - 🌱 I’m currently learning **DSA, Angular, Blockchain.**
 
 - 👯 I’m looking to collaborate on **full Stack projects**
 
-- 🤝 I’m looking for help with **Data Structures And Algorithms.**
+- 🤝 I’m improving with **Data Structures And Algorithms.**
 
 - 💬 Ask me about **DSA, MERN, Salesforce cloud services**
 
 - 📫 How to reach me **dinesh.choudhary.rrc@gmail.com**
 
-- ⚡ Fun fact **I think I am Noob funny Developer XD.**
+- ⚡ Fun fact **I think i AM GOOD AT WHAT I AM `1`*
+- Dominator, MVP.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
